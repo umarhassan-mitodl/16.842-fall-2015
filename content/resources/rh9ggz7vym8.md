@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/1122ceafba5157edc9f20b124fb8ee99_rh9ggz7vyM8.srt
 file_size: 2370
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

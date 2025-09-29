@@ -5,6 +5,8 @@ description: 'This resource contains information regarding systems integration a
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/3aaea35943c6c00192c7765c866c107e_MIT16_842F15_Ses_8_Sys_Int.pdf
 file_size: 2204852
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

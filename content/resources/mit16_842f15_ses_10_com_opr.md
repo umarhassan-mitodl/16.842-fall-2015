@@ -4,6 +4,8 @@ description: 'This resource contains information regarding commissioning and ope
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/cabeb49a7bd376e77cd2352e238a320c_MIT16_842F15_Ses_10_Com_Opr.pdf
 file_size: 3525702
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

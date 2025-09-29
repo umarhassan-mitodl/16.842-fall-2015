@@ -4,6 +4,8 @@ description: 'This resource contains information regarding SE standards question
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/ec6908b683ea2effc4b2403c7ce4ad4f_MIT16_842F15_StandardsQ.pdf
 file_size: 287485
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains information regarding system architecture an
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/c735f4557cd1589ee86294668f75b558_MTI16_842F15_Ses4_Con_Syn.pdf
 file_size: 3283550
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

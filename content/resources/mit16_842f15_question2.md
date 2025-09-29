@@ -4,6 +4,8 @@ description: This resource contains information regarding concept question 2.
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/549bbb07f8be01f9a3432405e347ce0a_MIT16_842F15_Question2.pdf
 file_size: 269802
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
