@@ -24,7 +24,7 @@ Best practices and formal methods of systems engineering have emerged since the 
 
 *   NASA Headquarters. _NASA Systems Engineering Handbook, NASA/SP-2007–6105 Rev 1_. Military Bookshop, 2007. ISBN: 9781780391380.
 *   INCOSE. _Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities_. 4th ed. Wiley, 2015. p. 304. ISBN: 9781118999400.
-*   [ISO/IEC/IEEE 15288:2015, Systems and Software Engineering—System Life Cycle Processes](http://www.iso.org/iso/catalogue_detail?csnumber=63711).
+*   {{% resource_link "bb0ca2d9-fd51-46b9-bbb1-5bef88b0f0c5" "ISO/IEC/IEEE 15288:2015, Systems and Software Engineering—System Life Cycle Processes" %}}.
 
 These standards are very helpful in giving structure and consistency to the systems engineering process. In this class we will learn about the most important standards and the major steps and methods that support the design and management of aerospace systems. Given the fact that this is a 6-unit / 5-ECTS-credits class, this introduction will necessarily be cursory and provide a general overview, rather than an in-depth treatment. Skillful and experienced systems engineers acquire their craft over the course of many years by participating and leading numerous projects. Hence, this class should be considered merely as a "_door opener_" to the world of systems engineering.
 
@@ -59,7 +59,7 @@ The class consists of five pedagogical elements that are interwoven to maximize 
 2.  **Assignments**: Small teams of students will do the assignments. Each team will turn in _one deliverable_ per assignment with all team members that contributed clearly identified. The assignments will be scheduled such that they are more or less synchronized with the class materials. The assignment teams will have a team size of five (5) and there will be a total of five (5) assignments over the course of the semester. Student teams will be primarily formed separately for MIT and EPFL students. However, depending on the number of participants at both schools we may allow mixed teams.
 3.  **Readings**: The readings in this class are of _two types_. First, we will assign weekly readings from the NASA Systems Engineering Handbook and potentially other standard SE texts to supplement the class materials. You can expect to read about 30–40 pages per week in this fashion. It is important to read ahead of class to get more from the lectures. Second, we will have one or two journal or conference papers per week as assigned post- reading. These post-readings will be discussed during lecture and are not mandatory but are intended to provide a fresher and more in-depth perspective compared to the SE standard texts.
 4.  **Exams**: There will be two examinations in this class. The first will be a written on-line quiz where students show their understanding of key SE concepts. This exam will be administered about two-thirds through the semester once the bulk of the SE theory has been covered. The quiz will be open-book and open-internet. There will also be a short individual oral examination (20 minutes) at the end of the semester, which will take the form of a general discussion about SE fundamentals and its potential future applications.
-5.  **Design Competition**: Students will prepare a PDR-level design for the 2016 [Cansat Competition](http://www.cansatcompetition.com) through their assignments. The final deliverable will be a 30-minute PDR presentation given as a team. As a result of the final deliverable the three top teams at MIT and EPFL, respectively, will be invited to apply to the actual Cansat 2016 competition, should they choose to do so.
+5.  **Design Competition**: Students will prepare a PDR-level design for the 2016 {{% resource_link "58edf50f-2e83-4fd8-895f-7b60e4709753" "Cansat Competition" %}} through their assignments. The final deliverable will be a 30-minute PDR presentation given as a team. As a result of the final deliverable the three top teams at MIT and EPFL, respectively, will be invited to apply to the actual Cansat 2016 competition, should they choose to do so.
 
 {{< anchor "VModel" >}}{{< /anchor >}}{{< resource "dfe30f33-7f85-b8ae-2d33-ffc4884c1552" >}}
 
@@ -378,7 +378,7 @@ Oral Exam (Individual)
 
 {{< sup "{{< anchor \"two\" >}}{{< /anchor >}}2" >}}The most recent example is the SpaceX Falcon 9 launch failure on June 28, 2015.
 
-{{< sup "{{< anchor \"three\" >}}{{< /anchor >}}3" >}}See [International Council on Systems Engineering](http://www.incose.org/certification) for more details about certification.
+{{< sup "{{< anchor \"three\" >}}{{< /anchor >}}3" >}}See {{% resource_link "cafed927-b82c-42b3-9013-4972a48948da" "International Council on Systems Engineering" %}} for more details about certification.
 
 {{< sup "{{< anchor \"four\" >}}{{< /anchor >}}4" >}}The concept questions are administered using Google Forms. Students respond by using a short URL from their laptops, tablets or mobile phones in real time.
 
