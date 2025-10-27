@@ -5,8 +5,6 @@ description: This is a file that contains information regarding fundamentals of 
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/956bb3854e6b602684becd3bea1f6409_MIT16_842F15_Assignment2.pdf
 file_size: 498257
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

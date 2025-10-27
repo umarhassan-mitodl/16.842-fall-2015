@@ -5,8 +5,6 @@ description: This resource contains information regarding systems engineering ov
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/77bb60b877f7a3a5afd4b4e6bb27a36e_MIT16_842F15_Ses1SE_Ovr_vw.pdf
 file_size: 4998456
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

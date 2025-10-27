@@ -5,8 +5,6 @@ description: This resource contains information regarding design definition and 
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/aac65c7bab13281e1265fc753edab4df_MIT16_842F15_Ses_6_Des_Def.pdf
 file_size: 2812516
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
